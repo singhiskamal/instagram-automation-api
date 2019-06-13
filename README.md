@@ -28,8 +28,8 @@ To run the api
 browse at http://localhost:3000/
 
 end points<br>
-hash-tag-likes?hashtag=<any hash tag><br>
-page-post-likes?insta_id=<instagram_id of user>
+hash-tag-likes?hashtag=<any_hash_tag><br>
+page-post-likes?insta_id=<instagram_id_of_user>
 
  
 
